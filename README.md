@@ -1,2 +1,3 @@
-# basketball_calculation
-Physics little project on plotting different ball trajectories
+# Physics modelling
+1. Mechanics project -> basketball, throwing a ball trajectories
+2. Electricity -> modelling low pass filter with load resistance
